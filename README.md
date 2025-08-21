@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <h3>Olá! Eu sou [SEU NOME] 👋</h3>
+  <h3>Olá! Eu sou o Pedro 👋</h3>
 </div>
 
 <p align="left">
-  Sou um estudante de [SEU CURSO] apaixonado por tecnologia e programação. Atualmente, estou focado em aprender mais sobre [SUA ÁREA DE INTERESSE, ex: Desenvolvimento Web, Inteligência Artificial, Segurança Cibernética]. Busco sempre novos desafios para expandir meu conhecimento.
+  Sou um estudante de ads apaixonado por tecnologia e programação. Atualmente. Busco sempre novos desafios para expandir meu conhecimento.
 </p>
 
 ---
